@@ -1,0 +1,42 @@
+{
+  "originHash" : "81c4dc1e6b5f9d359ed1641fd01b4ceba898dc9c437c66a311fed517d797d8f1",
+  "pins" : [
+    {
+      "identity" : "businesslayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/teslatess/BusinessLayer",
+      "state" : {
+        "revision" : "50fec32c2717b34577ae6326e63d8c6927112e21",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    },
+    {
+      "identity" : "networkinglayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/teslatess/NetworkingLayer",
+      "state" : {
+        "revision" : "b07911eaf62828254a046785783d9ebcca1f0651",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
